@@ -9,7 +9,7 @@
 
     <properties>
         <main.class>com.sriwin.automation.FatJarTest</main.class>
-        <commons-lang.version>3.9</commons-lang.version>
+        <commons-lang.version>3.18.0</commons-lang.version>
     </properties>
 
     <dependencies>
